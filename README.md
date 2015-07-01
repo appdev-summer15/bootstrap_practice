@@ -11,8 +11,8 @@
   - Wherever we had `<tr></tr>` elements, replace them with `<div class="row"></div>` elements.
   - Wherever we had `<td></td>` elements, replace them with `<div class="col-md-X"></div>` elements where `X` is a number between 1 and 12 (however many columns you want that cell to span across).
   - Now that we're done positioning, let's do some styling:
-   - [Button classes](http://getbootstrap.com/css/#buttons)
-   - [Jumbotron component](http://getbootstrap.com/components/#jumbotron)
+    - [Button classes](http://getbootstrap.com/css/#buttons)
+    - [Jumbotron component](http://getbootstrap.com/components/#jumbotron)
 
 ## Part Two - Roster With Bootstrap
 
@@ -27,10 +27,10 @@
   - Wherever we had `<tr></tr>` elements, replace them with `<div class="row"></div>` elements.
   - Wherever we had `<td></td>` elements, replace them with `<div class="col-md-X"></div>` elements where `X` is a number between 1 and 12 (however many columns you want that cell to span across).
   - Now that we're done positioning, let's do some styling:
-   - [list-unstyled class](http://getbootstrap.com/css/#unstyled)
-   - [img-rounded class](http://getbootstrap.com/css/#images-shapes) (instead of our old `"avatar-image"` class)
-   - [Panel component](http://getbootstrap.com/components/#panels) (instead of our old `"card"` class)
-   - [Page header component](http://getbootstrap.com/components/#page-header)
+    - [list-unstyled class](http://getbootstrap.com/css/#unstyled)
+    - [img-rounded class](http://getbootstrap.com/css/#images-shapes) (instead of our old `"avatar-image"` class)
+    - [Panel component](http://getbootstrap.com/components/#panels) (instead of our old `"card"` class)
+    - [Page header component](http://getbootstrap.com/components/#page-header)
 
 ## Part Three - Canvas Positioning
 

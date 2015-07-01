@@ -2,7 +2,7 @@
 
  1. Open `landing_start.html` in Chrome and Sublime. Open `landing_target.html` in Chrome.
  1. In `landing_start`, remove the `<link>` to `my_landing_styles.css`. We've now wiped out all of the hard work we did last time. Refresh in Chrome to see what we're left with.
- 1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded. Add this line to the `<head>`:
+ 1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded into a subfolder called `assets/css`. Add this line to the `<head>`:
 
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
  
@@ -18,7 +18,7 @@
 
  1. Open `roster_start.html` in Chrome and Sublime. Open `roster_target.html` in Chrome.
  1. In `roster_start`, delete everything inside the `<head>` tag except for the `<title>`. We've now wiped out all of the hard work we did last time. Refresh in Chrome to see what we're left with.
- 1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded. Add this line to the `<head>`:
+ 1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded into a subfolder called `assets/css`. Add this line to the `<head>`:
 
         <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
  

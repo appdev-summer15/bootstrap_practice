@@ -1,0 +1,39 @@
+.canvas_title {
+  font-size: 16pt;
+}
+
+.canvas_section {
+  font-size: 6pt;
+}
+
+.canvas_section_heading {
+  font-size: 9pt;
+  margin: 5px 5px;
+}
+
+.sublist_heading {
+  font-size: 8pt;
+  margin: 0;
+}
+
+.sublist {
+  font-style: italic;
+}
+
+.channel_phases_list {
+  padding: 10px;
+  margin: 0;
+}
+
+.channel_phases_list li p {
+  margin: 0;
+}
+
+.channel_phases_heading {
+  font-size: 8pt;
+  margin: 0;
+}
+
+.panel-heading {
+  padding: 5px 10px;
+}

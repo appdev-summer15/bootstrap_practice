@@ -4,7 +4,7 @@
  1. In `landing_start`, remove the `<link>` to `my_landing_styles.css`. We've now wiped out all of the hard work we did last time. Refresh in Chrome to see what we're left with.
  1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded. Add this line to the `<head>`:
 
-        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
  
  1. Try to modify the starting point until it looks like the target:
   - Replace the `<table></table>` element we hijacked for layout with a `<div class="container"></div>` element.
@@ -20,7 +20,7 @@
  1. In `roster_start`, delete everything inside the `<head>` tag except for the `<title>`. We've now wiped out all of the hard work we did last time. Refresh in Chrome to see what we're left with.
  1. Now, let's connect the document to `bootstrap.css`, which I have already downloaded. Add this line to the `<head>`:
 
-        <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
  
  1. Try to modify the starting point until it looks like the target:
   - Replace the `<table></table>` element we hijacked for layout with `<div class="container"></div>` element.
